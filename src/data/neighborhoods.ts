@@ -10,7 +10,7 @@ export const neighborhoods = [
       {
         "h": "What local context matters in Woods and Orchard roads?",
         "ps": [
-          "The public library history identifies its site at the corner of Woods and Orchard roads and its opening in 1904. That landmark history does not establish the age or condition of nearby private sewer pipes. See <a href=\"https://solvaylibrary.org/about-us/history/\">Solvay Public Library history</a>.",
+          "The <a href=\"https://solvaylibrary.org/about-us/history/\" target=\"_blank\" rel=\"noopener noreferrer\">public library history</a> identifies its site at the corner of Woods and Orchard roads and its opening in 1904. That landmark history does not establish the age or condition of nearby private sewer pipes.",
           "Local history does not identify private pipe material, age or condition. Confirm access and inspect the actual line."
         ]
       },
