@@ -1,0 +1,2 @@
+# Solvay Hydro Jetting Pros
+Astro GitHub Pages preview. Template: Ottawa light sage. Source main and static gh-pages. Phone/tracker: src/data/siteConfig.ts. No banner. No production services. Coverage and live lead delivery require confirmation before launch.
