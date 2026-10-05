@@ -164,3 +164,4 @@ img { max-width:100%; }
 
 .comparison{width:100%;border-collapse:collapse;margin:0 0 28px;font-size:13px}.comparison caption{text-align:left;font-weight:700;margin-bottom:12px}.comparison th,.comparison td{text-align:left;padding:12px;border:1px solid #d1d9d4;vertical-align:top}.comparison th{background:#edf3f0}
 .hero-inner{align-items:start}.form-card{padding-bottom:100px}.form-card-head a{white-space:nowrap}.hero-cta{display:flex;gap:14px;flex-wrap:wrap;margin:20px 0}.hero-cta a{background:#a44520;color:#fff;padding:14px 20px;text-decoration:none;font-weight:700}.hero-cta a:last-child{background:transparent;color:#215b46;border:1px solid #215b46}
+.lead-success[hidden]{display:none!important}.lead-success{scroll-margin-top:100px;padding-bottom:70px}.lead-success__again{padding:12px;margin-top:16px}
